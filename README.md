@@ -5,8 +5,12 @@ This script is a work in progress use at your own will. Currently it is designed
 
 
 1. Run the following commands to install the packages and initialise the project. 
+
+
 npm install --dev 
+
 npm install -g typescript 
+
 npm install -g ts-node 
 
 2. Open index.ts 
