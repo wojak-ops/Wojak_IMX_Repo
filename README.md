@@ -1,6 +1,8 @@
 # Instructions 
 
-This script is a work in progress use at your own will. Currently it is designed to bulk list NFTs from a collection for sale at the same price. 
+This script is a work in progress use at your own will. Currently it is designed to bulk list NFTs from a collection for sale at the same price. Note, if your NFTs are already listed it will relist them for the new price. 
+
+
 
 1. Run the following commands to install the packages and initialise the project. 
 npm install --dev 
