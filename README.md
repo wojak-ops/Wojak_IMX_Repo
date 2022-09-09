@@ -1,6 +1,6 @@
 # Instructions 
 
-This script is a work in progress use at your own will. Currently it is designed to bulk list NFTs from a collection for sale at the same price. Note, if your NFTs are already listed it will relist them for the new price. 
+[WORK IN PROGRESS] - some things may break but generally this can work. Currently it is designed to bulk list NFTs from a collection for sale at the same price. Note, if your NFTs are already listed it will relist them for the new price. 
 
 
 
